@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+		"name": "Bulbasaur",
+    "image": "./images/bulbasaur.png"
+  },
+
+  {
+    "id": 2,
+    "count": 0,
+		"name": "Charizard",
+    "image": "./images/charizard.png"
+  },
+  {
+    "id": 3,
+    "count": 0,
+		"name": "Charmander",
+    "image": "./images/charmander.png"
+  },
+  {
+    "id": 4,
+    "count": 0,
+		"name": "Haunter",
+    "image": "./images/haunter.png"
+  },
+  {
+    "id": 5,
+    "count": 0,
+		"name": "Pikachu",
+    "image": "./images/pikachu.png"
+  },
+  {
+    "id": 6,
+    "count": 0,
+		"name": "Piplup",
+    "image": "./images/piplup.png"
+  },
+  {
+    "id": 7,
+    "count": 0,
+		"name": "Sandshrew",
+    "image": "./images/sandshrew.png"
+  },
+  {
+    "id": 8,
+    "count": 0,
+		"name": "Squirtle",
+    "image": "./images/squirtle.png"
+  },
+  {
+    "id": 9,
+    "count": 0,
+		"name": "Totadile",
+    "image": "./images/totadile.png"
+  },
+  {
+    "id": 10,
+    "count": 0,
+		"name": "Vaporeon",
+    "image": "./images/vaporeon.png"
+  },
+  {
+    "id": 11,
+    "count": 0,
+		"name": "Zapados",
+    "image": "./images/zapados.gif"
+  },
+  {
+    "id": 12,
+    "count": 0,
+		"name": "Eevee",
+    "image": "./images/eevee.png"
+  }
+] 
